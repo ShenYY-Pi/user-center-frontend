@@ -125,7 +125,7 @@ const Login: React.FC = () => {
             maxWidth: '75vw',
           }}
           logo={<img alt="logo" src={SYSTEM_LOGO} />}
-          title="iKun用户中心项目"
+          title="iKun用户中心"
           subTitle={'全球最具影响力的iKun中心'}
           initialValues={{
             autoLogin: true,

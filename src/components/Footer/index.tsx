@@ -19,8 +19,14 @@ const Footer: React.FC = () => {
         },
         {
           key: 'Ant Design',
-          title: 'Syy Github',
-          href: 'https://www.github.com',
+          title: 'Syy Github |',
+          href: 'https://github.com/ShenYY-Pi/',
+          blankTarget: true,
+        },
+        {
+          key: 'BeiAn',
+          title: '鄂ICP备2021004157号-1',
+          href: 'https://beian.miit.gov.cn/',
           blankTarget: true,
         },
       ]}
