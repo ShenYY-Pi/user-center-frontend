@@ -11,7 +11,7 @@ import message from "antd/es/message";
  */
 const request = extend({
   credentials: 'include', // 默认请求是否带上cookie
-  prefix: process.env.NODE_ENV === 'production' ? 'http://162.14.67.133:8080' : undefined
+  prefix: process.env.NODE_ENV === 'production' ? 'https://backend.shenyuyang.top' : undefined
   // requestType: 'form',
 });
 

@@ -126,7 +126,7 @@ const Register: React.FC = () => {
             maxWidth: '75vw',
           }}
           logo={<img alt="logo" src={SYSTEM_LOGO}/>}
-          title="iKun用户中心项目"
+          title="iKun用户中心"
           submitter={{
             searchConfig: {
               submitText: '注册'
